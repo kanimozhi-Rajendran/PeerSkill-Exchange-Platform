@@ -1,0 +1,477 @@
+{
+  "users": [
+    {
+      "_id": "30fb2a98fef0faec3a15518c",
+      "createdAt": "2026-10-11T12:25:01.197Z",
+      "updatedAt": "2026-10-11T12:25:02.784Z",
+      "name": "Priya Sharma",
+      "email": "priya@peerskill.edu",
+      "password": "$2a$10$Tw0Tu1lS9aOBe2M7xtF/OuCGceDhh4tQ96lcBTeLcy3F1KaV8P3dG",
+      "department": "Computer Science & Engineering",
+      "yearOfStudy": "3rd Year",
+      "bio": "Passionate about web development and algorithms. Love helping peers get started with Python!",
+      "interests": [
+        "Full Stack",
+        "Competitive Coding",
+        "Open Source"
+      ],
+      "credits": 20,
+      "role": "student",
+      "averageRating": 4.9,
+      "reviewCount": 3,
+      "isActive": true,
+      "skillsTeachable": [
+        {
+          "id": "sk_teach_1",
+          "name": "Python",
+          "category": "Programming",
+          "proficiency": "Advanced",
+          "description": "Core syntax, OOP concepts, data structures, and script automation."
+        },
+        {
+          "id": "sk_teach_2",
+          "name": "React.js",
+          "category": "Programming",
+          "proficiency": "Intermediate",
+          "description": "Component architecture, Hooks (useState, useEffect), and responsive UI."
+        }
+      ],
+      "skillsWanted": [
+        {
+          "id": "sk_want_1",
+          "name": "Excel",
+          "category": "Data Science",
+          "proficiency": "Intermediate",
+          "description": "Formulas, VLOOKUP, pivot tables, and dashboard charting."
+        },
+        {
+          "id": "sk_want_2",
+          "name": "Public Speaking",
+          "category": "Languages",
+          "proficiency": "Beginner",
+          "description": "Presentation delivery and seminar confidence."
+        }
+      ],
+      "totalHoursLearned": 1.5,
+      "totalSessionsCompleted": 1
+    },
+    {
+      "_id": "fcd17060fc3c941b5489e779",
+      "createdAt": "2026-10-11T12:25:01.199Z",
+      "updatedAt": "2026-10-11T12:25:02.777Z",
+      "name": "Rahul Verma",
+      "email": "rahul@peerskill.edu",
+      "password": "$2a$10$Tw0Tu1lS9aOBe2M7xtF/OuCGceDhh4tQ96lcBTeLcy3F1KaV8P3dG",
+      "department": "Data Science & Analytics",
+      "yearOfStudy": "3rd Year",
+      "bio": "Data science enthusiast. Experienced in spreadsheet automation and statistical modeling.",
+      "interests": [
+        "Machine Learning",
+        "Business Analytics",
+        "Python"
+      ],
+      "credits": 25,
+      "role": "student",
+      "averageRating": 5,
+      "reviewCount": 2,
+      "isActive": true,
+      "skillsTeachable": [
+        {
+          "id": "sk_teach_3",
+          "name": "Excel",
+          "category": "Data Science",
+          "proficiency": "Advanced",
+          "description": "Advanced macros, power query, financial modeling, and pivot charts."
+        },
+        {
+          "id": "sk_teach_4",
+          "name": "Machine Learning",
+          "category": "Data Science",
+          "proficiency": "Intermediate",
+          "description": "Scikit-Learn, regression, classification, and model evaluation."
+        }
+      ],
+      "skillsWanted": [
+        {
+          "id": "sk_want_3",
+          "name": "Python",
+          "category": "Programming",
+          "proficiency": "Intermediate",
+          "description": "Clean coding conventions and backend APIs with Flask/Express."
+        },
+        {
+          "id": "sk_want_4",
+          "name": "React.js",
+          "category": "Programming",
+          "proficiency": "Beginner",
+          "description": "Building modern dashboards for data visualizations."
+        }
+      ],
+      "totalHoursTaught": 1.5,
+      "totalSessionsCompleted": 1
+    },
+    {
+      "_id": "22a0e9bcd13a1cb8b5a2b31e",
+      "createdAt": "2026-10-11T12:25:01.200Z",
+      "updatedAt": "2026-10-11T12:25:01.200Z",
+      "name": "Ananya Patel",
+      "email": "ananya@peerskill.edu",
+      "password": "$2a$10$Tw0Tu1lS9aOBe2M7xtF/OuCGceDhh4tQ96lcBTeLcy3F1KaV8P3dG",
+      "department": "Electrical & Electronics",
+      "yearOfStudy": "2nd Year",
+      "bio": "Self-taught UI/UX designer and Figma lover. Excited to trade design skills for coding help!",
+      "interests": [
+        "UI/UX",
+        "Product Design",
+        "Figma",
+        "Embedded Systems"
+      ],
+      "credits": 12,
+      "role": "student",
+      "averageRating": 4.8,
+      "reviewCount": 2,
+      "isActive": true,
+      "skillsTeachable": [
+        {
+          "id": "sk_teach_5",
+          "name": "Figma & UI Design",
+          "category": "Design",
+          "proficiency": "Advanced",
+          "description": "Wireframing, auto-layout, design systems, and clickable prototypes."
+        },
+        {
+          "id": "sk_teach_6",
+          "name": "Graphic Design",
+          "category": "Design",
+          "proficiency": "Intermediate",
+          "description": "Poster design, typography, and color theory for college fests."
+        }
+      ],
+      "skillsWanted": [
+        {
+          "id": "sk_want_5",
+          "name": "C++",
+          "category": "Programming",
+          "proficiency": "Intermediate",
+          "description": "Pointers, memory management, and OOP for microcontroller programming."
+        }
+      ]
+    },
+    {
+      "_id": "7afd3385f32832382f9e423b",
+      "createdAt": "2026-10-11T12:25:01.201Z",
+      "updatedAt": "2026-10-11T12:25:01.201Z",
+      "name": "Karthik Iyer",
+      "email": "karthik@peerskill.edu",
+      "password": "$2a$10$Tw0Tu1lS9aOBe2M7xtF/OuCGceDhh4tQ96lcBTeLcy3F1KaV8P3dG",
+      "department": "Mechanical Engineering",
+      "yearOfStudy": "4th Year",
+      "bio": "Robotics and CAD modeling enthusiast. Keen to learn UI design for our robotics team website.",
+      "interests": [
+        "Robotics",
+        "CAD",
+        "C++",
+        "Automation"
+      ],
+      "credits": 18,
+      "role": "student",
+      "averageRating": 5,
+      "reviewCount": 1,
+      "isActive": true,
+      "skillsTeachable": [
+        {
+          "id": "sk_teach_7",
+          "name": "C++",
+          "category": "Programming",
+          "proficiency": "Advanced",
+          "description": "Object-oriented programming, STL, and performance tuning."
+        },
+        {
+          "id": "sk_teach_8",
+          "name": "AutoCAD",
+          "category": "Engineering",
+          "proficiency": "Advanced",
+          "description": "2D drafting, engineering drawings, and geometric dimensioning."
+        }
+      ],
+      "skillsWanted": [
+        {
+          "id": "sk_want_6",
+          "name": "Figma & UI Design",
+          "category": "Design",
+          "proficiency": "Beginner",
+          "description": "Creating mockups for our engineering capstone presentation."
+        }
+      ]
+    },
+    {
+      "_id": "b65d3b18b197b2468a99c813",
+      "createdAt": "2026-10-11T12:25:01.202Z",
+      "updatedAt": "2026-10-11T12:25:01.202Z",
+      "name": "College Platform Administrator",
+      "email": "admin@peerskill.edu",
+      "password": "$2a$10$Tw0Tu1lS9aOBe2M7xtF/Oucr7z/6wfUVk7ABJ3vSoybYkw7fwkc46",
+      "department": "Department of Academic Affairs",
+      "yearOfStudy": "Postgraduate",
+      "bio": "System Administrator overseeing peer-to-peer student learning and quality assurance.",
+      "interests": [
+        "Platform Governance",
+        "Academic Integrity"
+      ],
+      "credits": 100,
+      "role": "admin",
+      "averageRating": 5,
+      "reviewCount": 0,
+      "isActive": true,
+      "skillsTeachable": [],
+      "skillsWanted": []
+    },
+    {
+      "_id": "329dbfe51d299775640fab06",
+      "createdAt": "2026-10-12T06:19:03.602Z",
+      "updatedAt": "2026-10-12T06:19:03.602Z",
+      "name": "Kanimozhi R",
+      "email": "kani74608@gmail.com",
+      "password": "$2a$10$i0NyV6.QqyOyprnu7Ymz5OCTAosDjXyHn6/R7FGeoinRkstMLo6fe",
+      "department": "Computer Science & Engineering",
+      "yearOfStudy": "3rd Year",
+      "college": "College of Engineering & Technology",
+      "picture": "",
+      "credits": 10,
+      "role": "student",
+      "skillsTeachable": [],
+      "skillsWanted": [],
+      "bio": "Enthusiastic college student ready to share skills and learn from peers!",
+      "interests": [],
+      "averageRating": 5,
+      "reviewCount": 0,
+      "totalSessionsCompleted": 0,
+      "totalHoursTaught": 0,
+      "totalHoursLearned": 0,
+      "isActive": true
+    }
+  ],
+  "sessions": [
+    {
+      "_id": "9e3af2fde7dda4b19086470f",
+      "createdAt": "2026-10-11T12:25:01.204Z",
+      "updatedAt": "2026-10-11T12:25:01.204Z",
+      "teacherId": "30fb2a98fef0faec3a15518c",
+      "learnerId": "fcd17060fc3c941b5489e779",
+      "skillName": "Python",
+      "date": "2026-10-08",
+      "time": "16:00",
+      "durationMinutes": 60,
+      "message": "Looking forward to learning Python list comprehensions and dictionaries!",
+      "meetingLink": "https://meet.google.com/abc-demo-session",
+      "status": "completed",
+      "creditsAwarded": true,
+      "completedAt": "2026-10-08T17:00:00.000Z"
+    },
+    {
+      "_id": "ce71e7cc00589185dde40c65",
+      "createdAt": "2026-10-11T12:25:01.210Z",
+      "updatedAt": "2026-10-11T12:25:01.210Z",
+      "teacherId": "fcd17060fc3c941b5489e779",
+      "learnerId": "30fb2a98fef0faec3a15518c",
+      "skillName": "Excel",
+      "date": "2026-10-12",
+      "time": "15:30",
+      "durationMinutes": 90,
+      "message": "Let us master VLOOKUP and XLOOKUP with college exam datasets!",
+      "meetingLink": "https://meet.google.com/xyz-excel-learning",
+      "status": "accepted",
+      "creditsAwarded": false
+    },
+    {
+      "_id": "b6addd7ee5527de34ca9f019",
+      "createdAt": "2026-10-11T12:25:01.213Z",
+      "updatedAt": "2026-10-11T12:25:01.213Z",
+      "teacherId": "7afd3385f32832382f9e423b",
+      "learnerId": "22a0e9bcd13a1cb8b5a2b31e",
+      "skillName": "C++",
+      "date": "2026-10-12",
+      "time": "17:00",
+      "durationMinutes": 60,
+      "message": "Hi Karthik, I need help with C++ memory pointers for my robotics project!",
+      "meetingLink": "Library 2nd Floor Study Room 4",
+      "status": "pending",
+      "creditsAwarded": false
+    },
+    {
+      "_id": "dbba4f12f6ff74df1f99d313",
+      "createdAt": "2026-10-11T12:25:01.363Z",
+      "updatedAt": "2026-10-11T12:25:01.367Z",
+      "teacherId": "fcd17060fc3c941b5489e779",
+      "learnerId": "30fb2a98fef0faec3a15518c",
+      "skillName": "Excel Advanced Formulas",
+      "date": "2026-10-15",
+      "time": "14:00",
+      "durationMinutes": 60,
+      "status": "completed",
+      "creditsAwarded": true
+    },
+    {
+      "_id": "7cfd0f499ea529394312bbee",
+      "createdAt": "2026-10-11T12:25:02.757Z",
+      "updatedAt": "2026-10-11T12:25:02.757Z",
+      "teacherId": "fcd17060fc3c941b5489e779",
+      "learnerId": "30fb2a98fef0faec3a15518c",
+      "skillName": "Excel Modeling",
+      "date": "2026-11-25",
+      "time": "16:00",
+      "durationMinutes": 60,
+      "message": "",
+      "meetingLink": "Google Meet / College Library",
+      "status": "pending",
+      "creditsAwarded": false
+    },
+    {
+      "_id": "dd24d94bc3499aaf008ac667",
+      "createdAt": "2026-10-11T12:25:02.772Z",
+      "updatedAt": "2026-10-11T12:25:02.786Z",
+      "teacherId": "fcd17060fc3c941b5489e779",
+      "learnerId": "30fb2a98fef0faec3a15518c",
+      "skillName": "Advanced SQL Query Optimization",
+      "date": "2026-11-28",
+      "time": "11:00",
+      "durationMinutes": 90,
+      "status": "completed",
+      "creditsAwarded": true,
+      "completedAt": "2026-10-11T12:25:02.785Z"
+    },
+    {
+      "_id": "ca2c5b8bd1f39255c2c27a9d",
+      "createdAt": "2026-10-12T06:19:17.143Z",
+      "updatedAt": "2026-10-12T06:19:17.143Z",
+      "teacherId": "30fb2a98fef0faec3a15518c",
+      "learnerId": "329dbfe51d299775640fab06",
+      "skillName": "Python",
+      "date": "2026-10-12",
+      "time": "16:00",
+      "durationMinutes": 60,
+      "message": "",
+      "meetingLink": "College Library / Google Meet",
+      "status": "pending",
+      "creditsAwarded": false
+    }
+  ],
+  "reviews": [
+    {
+      "_id": "67fe785060a1de44dd87b702",
+      "createdAt": "2026-10-11T12:25:01.205Z",
+      "updatedAt": "2026-10-11T12:25:01.205Z",
+      "sessionId": "9e3af2fde7dda4b19086470f",
+      "reviewerId": "fcd17060fc3c941b5489e779",
+      "revieweeId": "30fb2a98fef0faec3a15518c",
+      "rating": 5,
+      "comment": "Priya was amazing! She explained Python OOP with clear real-world examples. Highly recommend!",
+      "skillName": "Python"
+    }
+  ],
+  "creditTransactions": [
+    {
+      "_id": "5bd0886ca8f4a0a840735b83",
+      "createdAt": "2026-10-11T12:25:01.208Z",
+      "updatedAt": "2026-10-11T12:25:01.208Z",
+      "userId": "30fb2a98fef0faec3a15518c",
+      "amount": 5,
+      "type": "session_teaching_reward",
+      "description": "Earned +5 credits for teaching Python to Rahul Verma",
+      "referenceSessionId": "9e3af2fde7dda4b19086470f"
+    },
+    {
+      "_id": "a3f7a603253118df5a0cea02",
+      "createdAt": "2026-10-11T12:25:01.366Z",
+      "updatedAt": "2026-10-11T12:25:01.366Z",
+      "userId": "fcd17060fc3c941b5489e779",
+      "amount": 5,
+      "type": "session_teaching_reward",
+      "description": "Test completion reward",
+      "referenceSessionId": "dbba4f12f6ff74df1f99d313"
+    },
+    {
+      "_id": "214cccdb2bcb059a68f83735",
+      "createdAt": "2026-10-11T12:25:02.779Z",
+      "updatedAt": "2026-10-11T12:25:02.779Z",
+      "userId": "fcd17060fc3c941b5489e779",
+      "amount": 5,
+      "type": "session_teaching_reward",
+      "description": "Earned +5 credits for teaching \"Advanced SQL Query Optimization\"",
+      "referenceSessionId": "dd24d94bc3499aaf008ac667"
+    },
+    {
+      "_id": "e5c6a4d02caa0b2c41d69330",
+      "createdAt": "2026-10-12T06:19:03.605Z",
+      "updatedAt": "2026-10-12T06:19:03.605Z",
+      "userId": "329dbfe51d299775640fab06",
+      "amount": 10,
+      "type": "initial_bonus",
+      "description": "Welcome bonus on registration"
+    }
+  ],
+  "notifications": [
+    {
+      "_id": "fb91961449fc8b92f5e0bcba",
+      "createdAt": "2026-10-11T12:25:01.214Z",
+      "updatedAt": "2026-10-11T12:25:01.214Z",
+      "userId": "30fb2a98fef0faec3a15518c",
+      "title": "Upcoming Session Tomorrow 📅",
+      "message": "You have an accepted session for \"Excel\" with Rahul Verma on 2026-10-12 at 15:30.",
+      "type": "request_accepted",
+      "link": "/sessions",
+      "isRead": false
+    },
+    {
+      "_id": "fdb9d18e9edd84d186be63ac",
+      "createdAt": "2026-10-11T12:25:01.215Z",
+      "updatedAt": "2026-10-11T12:25:01.215Z",
+      "userId": "7afd3385f32832382f9e423b",
+      "title": "New Session Request 🎓",
+      "message": "Ananya Patel requested to learn \"C++\" with you on 2026-10-12 at 17:00.",
+      "type": "request_received",
+      "link": "/sessions",
+      "isRead": false
+    },
+    {
+      "_id": "69fd12283ebb91662adee3d0",
+      "createdAt": "2026-10-11T12:25:02.761Z",
+      "updatedAt": "2026-10-11T12:25:02.761Z",
+      "userId": "fcd17060fc3c941b5489e779",
+      "title": "New Session Request 🎓",
+      "message": "Priya Sharma requested to learn \"Excel Modeling\" with you on 2026-11-25 at 16:00.",
+      "type": "request_received",
+      "link": "/sessions"
+    },
+    {
+      "_id": "a32ac8a673843338f1530632",
+      "createdAt": "2026-10-11T12:25:02.781Z",
+      "updatedAt": "2026-10-11T12:25:02.781Z",
+      "userId": "fcd17060fc3c941b5489e779",
+      "title": "+5 Credits Earned! 🏆",
+      "message": "Congratulations! You received 5 skill credits for conducting the session on \"Advanced SQL Query Optimization\".",
+      "type": "credits_earned",
+      "link": "/progress"
+    },
+    {
+      "_id": "7c4685f38cf50840d3b23fef",
+      "createdAt": "2026-10-11T12:25:02.788Z",
+      "updatedAt": "2026-10-11T12:25:02.788Z",
+      "userId": "30fb2a98fef0faec3a15518c",
+      "title": "Session Completed! Leave a Review ⭐",
+      "message": "Your learning session for \"Advanced SQL Query Optimization\" is marked completed. Share your feedback for your peer mentor!",
+      "type": "session_completed",
+      "link": "/reviews"
+    },
+    {
+      "_id": "e1968d9f68f9883e0ee26ac9",
+      "createdAt": "2026-10-12T06:19:17.153Z",
+      "updatedAt": "2026-10-12T06:19:17.153Z",
+      "userId": "30fb2a98fef0faec3a15518c",
+      "title": "New Session Request 🎓",
+      "message": "Kanimozhi R requested to learn \"Python\" with you on 2026-10-12 at 16:00.",
+      "type": "request_received",
+      "link": "/sessions"
+    }
+  ]
+}

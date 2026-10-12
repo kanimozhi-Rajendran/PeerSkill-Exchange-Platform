@@ -1,0 +1,26 @@
+{
+  "name": "peer-skill-exchange",
+  "version": "1.0.0",
+  "description": "Full-Stack Peer Skill Exchange Platform for College Students",
+  "scripts": {
+    "install:server": "npm --prefix server install",
+    "install:client": "npm --prefix client install",
+    "install:all": "npm run install:server && npm run install:client",
+    "server": "npm --prefix server start",
+    "server:dev": "npm --prefix server run dev",
+    "seed": "npm --prefix server run seed",
+    "client": "npm --prefix client run dev",
+    "client:build": "npm --prefix client run build",
+    "test": "npm --prefix server test"
+  },
+  "keywords": [
+    "peer-learning",
+    "skill-exchange",
+    "college",
+    "mern",
+    "wad",
+    "sepm"
+  ],
+  "author": "Student Developer",
+  "license": "MIT"
+}
